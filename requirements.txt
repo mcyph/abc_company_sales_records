@@ -1,0 +1,10 @@
+geopy
+streamlit
+python-dotenv
+portalocker
+plotly
+dash
+pycountry
+vega-datasets
+altair
+gpdvega
