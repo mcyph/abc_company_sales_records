@@ -16,7 +16,9 @@ st.markdown('''
 By David Morrissey 18/02/2021.
 
 A simple demo of what can be done together with powerful data analysis tools such as 
-[streamlit](https://streamlit.io), [pandas](https://pandas.pydata.org/), [plotly dash](https://plotly.com/dash/])
+[streamlit](https://streamlit.io), 
+[pandas](https://pandas.pydata.org/), 
+[plotly dash](https://plotly.com/dash/])
 and [pydeck](https://deckgl.readthedocs.io/en/latest/) and sales data.
 ''')
 

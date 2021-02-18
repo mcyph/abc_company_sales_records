@@ -28,6 +28,10 @@ class QuickOverview:
         # Basic Statistics
         
         This page shows basic order statistics over time and by country.
+        
+        Please select **"Advanced Order Filter"** in the pane to the left 
+        (viewable using the ">" icon in the top left on mobile devices).
+        for more advanced queries over time or by location.
         ''')
 
         # Display a basic number/total income by orders graph
