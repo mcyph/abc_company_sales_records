@@ -1,1 +1,1 @@
-src/vis.py
+web: sh setup.sh && streamlit run src/vis.py
